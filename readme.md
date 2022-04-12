@@ -1,0 +1,3 @@
+The purpose of this project is to display upcoming events from an Outlook calendar on an eInk Display, specifically the Waveshare 4.3 Inch ePaper display. 
+
+In the folder waveshare, you can find a driver for Micropython devices for the use of the Waveshare UART 4.3 inch ePaper display. It is based on the driver for Raspberry Pi by jarret which you can find [here](https://github.com/jarret/raspi-uart-waveshare). 
