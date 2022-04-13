@@ -4,8 +4,8 @@ import datetime
 import os.path
 from O365 import Account, MSGraphProtocol
 
-CLIENT_ID = '39837a19-142a-4850-b1f7-22e0e91318be'
-SECRET_ID =  'RE37Q~h.gpmoxHshQUX8REdMBllh~DK31BztF'
+CLIENT_ID = 'Add Client ID here'
+SECRET_ID =  'Add Secret ID here'
 
 credentials = (CLIENT_ID, SECRET_ID)
 
